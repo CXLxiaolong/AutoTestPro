@@ -1,0 +1,4 @@
+2016-11-07-16:30:17 - Start the Firefox driver
+2016-11-07-16:30:27 - Set implicitly wait timeout 30
+2016-11-07-16:30:28 - Go to http://10.0.30.2:8082/
+2016-11-07-16:30:28 - Quit the driver
